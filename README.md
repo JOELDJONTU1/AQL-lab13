@@ -13,4 +13,4 @@ au Collège La Cité.
 Joel Gothard Djontu
 
 ## Site web
-Lien GitHub Pages : (à ajouter apres lactivation )
+[Voir le site](https://joeldjontu1.github.io/AQL-lab13/)
